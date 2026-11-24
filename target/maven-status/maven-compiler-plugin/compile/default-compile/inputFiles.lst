@@ -1,6 +1,10 @@
+/Users/ilyassoukessou/Desktop/Projet_java/src/main/java/com/centrecommerce/config/DatabaseConnection.java
+/Users/ilyassoukessou/Desktop/Projet_java/src/main/java/com/centrecommerce/dao/VenteDAO.java
+/Users/ilyassoukessou/Desktop/Projet_java/src/main/java/com/centrecommerce/model/BilanMensuel.java
 /Users/ilyassoukessou/Desktop/Projet_java/src/main/java/com/centrecommerce/model/Categorie.java
 /Users/ilyassoukessou/Desktop/Projet_java/src/main/java/com/centrecommerce/model/Client.java
 /Users/ilyassoukessou/Desktop/Projet_java/src/main/java/com/centrecommerce/model/LigneVente.java
 /Users/ilyassoukessou/Desktop/Projet_java/src/main/java/com/centrecommerce/model/Produit.java
 /Users/ilyassoukessou/Desktop/Projet_java/src/main/java/com/centrecommerce/model/Utilisateur.java
 /Users/ilyassoukessou/Desktop/Projet_java/src/main/java/com/centrecommerce/model/Vente.java
+/Users/ilyassoukessou/Desktop/Projet_java/src/main/java/com/centrecommerce/service/VenteService.java

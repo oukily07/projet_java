@@ -1,6 +1,6 @@
-com/centrecommerce/model/Client.class
 com/centrecommerce/model/Produit.class
 com/centrecommerce/model/Utilisateur.class
-com/centrecommerce/model/Vente.class
 com/centrecommerce/model/Categorie.class
 com/centrecommerce/model/LigneVente.class
+com/centrecommerce/model/Client.class
+com/centrecommerce/model/Vente.class
